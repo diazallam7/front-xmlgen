@@ -1,0 +1,4 @@
+body { margin: 0; padding: 0; background: #f7f7f7; }
+input, textarea, button { font-family: inherit; }
+textarea { width: 100%; min-height: 320px; }
+.container { max-width: 900px; margin: 16px auto; background: #fff; padding: 16px; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }

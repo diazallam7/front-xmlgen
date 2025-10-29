@@ -8,7 +8,6 @@ Requisitos
 Instalación
 
 ```bash
-cd c:/Users/ETKAM/Desktop/systems/ERP/front-mxlgeneratefactura
 npm install
 ```
 
